@@ -17,4 +17,5 @@ Please make sure to update tests as appropriate.
 
 ## Authors
 Ömer Faruk Demirci
+
 Halil Eryalcin
